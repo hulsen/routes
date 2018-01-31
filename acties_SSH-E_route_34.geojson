@@ -1,0 +1,1282 @@
+{ "features":[
+        {
+         "geometry":
+            {
+             "coordinates":[4.5097116, 52.2194839],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Laden",
+             "ActieId":"2262",
+             "AdresBegin":"2171AE 53",
+             "AdresEind":"2171AE 53",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "TijdstipBeginActie":"17:00:00",
+             "TijdstipEindActie":"17:00:00",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.5097116, 52.2194839], [4.8695477, 52.2895383]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2263",
+             "AdresBegin":"2171AE 53",
+             "AdresEind":"1186EV 89",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"35016",
+             "TijdstipBeginActie":"17:00:00",
+             "TijdstipEindActie":"18:00:00",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8695477, 52.2895383],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2264",
+             "AdresBegin":"1186EV 89",
+             "AdresEind":"1186EV 89",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXJU10125056",
+             "TijdstipBeginActie":"18:00:00",
+             "TijdstipEindActie":"18:05:00",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8695477, 52.2895383], [4.8674523, 52.2813027]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2265",
+             "AdresBegin":"1186EV 89",
+             "AdresEind":"1186XM 64",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"1549",
+             "TijdstipBeginActie":"18:05:00",
+             "TijdstipEindActie":"18:09:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8674523, 52.2813027],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2266",
+             "AdresBegin":"1186XM 64",
+             "AdresEind":"1186XM 64",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYKHS269207501",
+             "TijdstipBeginActie":"18:09:03",
+             "TijdstipEindActie":"18:14:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8674523, 52.2813027], [4.8616607, 52.2783921]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2267",
+             "AdresBegin":"1186XM 64",
+             "AdresEind":"1186WG 40",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"1120",
+             "TijdstipBeginActie":"18:14:03",
+             "TijdstipEindActie":"18:17:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8616607, 52.2783921],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2268",
+             "AdresBegin":"1186WG 40",
+             "AdresEind":"1186WG 40",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYYZK012196788",
+             "TijdstipBeginActie":"18:17:03",
+             "TijdstipEindActie":"18:22:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8616607, 52.2783921], [4.8627668, 52.2770275]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2269",
+             "AdresBegin":"1186WG 40",
+             "AdresEind":"1186WV 39",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"521",
+             "TijdstipBeginActie":"18:22:03",
+             "TijdstipEindActie":"18:24:10",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8627668, 52.2770275],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2270",
+             "AdresBegin":"1186WV 39",
+             "AdresEind":"1186WV 39",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10498187",
+             "TijdstipBeginActie":"18:24:10",
+             "TijdstipEindActie":"18:29:10",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8627668, 52.2770275], [4.8627758, 52.2770826]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2271",
+             "AdresBegin":"1186WV 39",
+             "AdresEind":"1186WV 41",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"31",
+             "TijdstipBeginActie":"18:29:10",
+             "TijdstipEindActie":"18:29:22",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8627758, 52.2770826],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2272",
+             "AdresBegin":"1186WV 41",
+             "AdresEind":"1186WV 41",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYBAD206644601",
+             "TijdstipBeginActie":"18:29:22",
+             "TijdstipEindActie":"18:34:22",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8627758, 52.2770826], [4.862551, 52.2759821]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2273",
+             "AdresBegin":"1186WV 41",
+             "AdresEind":"1186WT 32",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"137",
+             "TijdstipBeginActie":"18:34:22",
+             "TijdstipEindActie":"18:35:15",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.862551, 52.2759821],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2274",
+             "AdresBegin":"1186WT 32",
+             "AdresEind":"1186WT 32",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYFPG198762201",
+             "TijdstipBeginActie":"18:35:15",
+             "TijdstipEindActie":"18:40:15",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.862551, 52.2759821], [4.857164, 52.2769725]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2275",
+             "AdresBegin":"1186WT 32",
+             "AdresEind":"1186DV 35",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"569",
+             "TijdstipBeginActie":"18:40:15",
+             "TijdstipEindActie":"18:41:50",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.857164, 52.2769725],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2276",
+             "AdresBegin":"1186DV 35",
+             "AdresEind":"1186DV 35",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SMYPA047195266",
+             "TijdstipBeginActie":"18:41:50",
+             "TijdstipEindActie":"18:46:50",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.857164, 52.2769725], [4.8527214, 52.2791679]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2277",
+             "AdresBegin":"1186DV 35",
+             "AdresEind":"1188EJ 136",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"771",
+             "TijdstipBeginActie":"18:46:50",
+             "TijdstipEindActie":"18:48:36",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8527214, 52.2791679],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2278",
+             "AdresBegin":"1188EJ 136",
+             "AdresEind":"1188EJ 136",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10499954",
+             "TijdstipBeginActie":"18:48:36",
+             "TijdstipEindActie":"18:49:56",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8527214, 52.2791679], [4.8527214, 52.2791679]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2279",
+             "AdresBegin":"1188EJ 136",
+             "AdresEind":"1188EJ 136",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"34",
+             "TijdstipBeginActie":"18:49:56",
+             "TijdstipEindActie":"18:50:08",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8527214, 52.2791679],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2280",
+             "AdresBegin":"1188EJ 136",
+             "AdresEind":"1188EJ 136",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10499903",
+             "TijdstipBeginActie":"18:50:08",
+             "TijdstipEindActie":"18:55:28",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8527214, 52.2791679], [4.8533509, 52.2822381]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2281",
+             "AdresBegin":"1188EJ 136",
+             "AdresEind":"1188AT 14",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"520",
+             "TijdstipBeginActie":"18:55:28",
+             "TijdstipEindActie":"18:57:09",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8533509, 52.2822381],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2282",
+             "AdresBegin":"1188AT 14",
+             "AdresEind":"1188AT 14",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SETAM001505873",
+             "TijdstipBeginActie":"18:57:09",
+             "TijdstipEindActie":"19:02:09",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8533509, 52.2822381], [4.8502842, 52.2810276]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2283",
+             "AdresBegin":"1188AT 14",
+             "AdresEind":"1188NA 49",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"506",
+             "TijdstipBeginActie":"19:02:09",
+             "TijdstipEindActie":"19:04:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8502842, 52.2810276],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2284",
+             "AdresBegin":"1188NA 49",
+             "AdresEind":"1188NA 49",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STPRF6559166",
+             "TijdstipBeginActie":"19:04:03",
+             "TijdstipEindActie":"19:09:03",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8502842, 52.2810276], [4.8501403, 52.2790194]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2285",
+             "AdresBegin":"1188NA 49",
+             "AdresEind":"1188GE 7",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"483",
+             "TijdstipBeginActie":"19:09:03",
+             "TijdstipEindActie":"19:10:48",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8501403, 52.2790194],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2286",
+             "AdresBegin":"1188GE 7",
+             "AdresEind":"1188GE 7",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SETAM001505571",
+             "TijdstipBeginActie":"19:10:48",
+             "TijdstipEindActie":"19:15:48",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8501403, 52.2790194], [4.847973, 52.2791624]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2287",
+             "AdresBegin":"1188GE 7",
+             "AdresEind":"1188GS 42",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"168",
+             "TijdstipBeginActie":"19:15:48",
+             "TijdstipEindActie":"19:16:30",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.847973, 52.2791624],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2288",
+             "AdresBegin":"1188GS 42",
+             "AdresEind":"1188GS 42",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10499306",
+             "TijdstipBeginActie":"19:16:30",
+             "TijdstipEindActie":"19:21:30",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.847973, 52.2791624], [4.8460934, 52.2805325]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2289",
+             "AdresBegin":"1188GS 42",
+             "AdresEind":"1188LP 1",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"251",
+             "TijdstipBeginActie":"19:21:30",
+             "TijdstipEindActie":"19:22:31",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8460934, 52.2805325],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2290",
+             "AdresBegin":"1188LP 1",
+             "AdresEind":"1188LP 1",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SFONQ2748636",
+             "TijdstipBeginActie":"19:22:31",
+             "TijdstipEindActie":"19:27:31",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8460934, 52.2805325], [4.8471006, 52.2827222]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2291",
+             "AdresBegin":"1188LP 1",
+             "AdresEind":"1188LN 18",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"381",
+             "TijdstipBeginActie":"19:27:31",
+             "TijdstipEindActie":"19:29:11",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8471006, 52.2827222],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2292",
+             "AdresBegin":"1188LN 18",
+             "AdresEind":"1188LN 18",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SETAM001505842",
+             "TijdstipBeginActie":"19:29:11",
+             "TijdstipEindActie":"19:34:11",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8471006, 52.2827222], [4.8434764, 52.2825407]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2293",
+             "AdresBegin":"1188LN 18",
+             "AdresEind":"1188JK 7",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"469",
+             "TijdstipBeginActie":"19:34:11",
+             "TijdstipEindActie":"19:36:05",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8434764, 52.2825407],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2294",
+             "AdresBegin":"1188JK 7",
+             "AdresEind":"1188JK 7",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SBOLD22031653",
+             "TijdstipBeginActie":"19:36:05",
+             "TijdstipEindActie":"19:41:05",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8434764, 52.2825407], [4.8278911, 52.2738085]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2295",
+             "AdresBegin":"1188JK 7",
+             "AdresEind":"1187WK 1",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"2248",
+             "TijdstipBeginActie":"19:41:05",
+             "TijdstipEindActie":"19:45:34",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8278911, 52.2738085],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2296",
+             "AdresBegin":"1187WK 1",
+             "AdresEind":"1187WK 1",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXJU10124787",
+             "TijdstipBeginActie":"19:45:34",
+             "TijdstipEindActie":"19:50:34",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8278911, 52.2738085], [4.8318392, 52.2782106]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2297",
+             "AdresBegin":"1187WK 1",
+             "AdresEind":"1187TT 24",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"857",
+             "TijdstipBeginActie":"19:50:34",
+             "TijdstipEindActie":"19:53:13",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8318392, 52.2782106],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2298",
+             "AdresBegin":"1187TT 24",
+             "AdresEind":"1187TT 24",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXJU10124897",
+             "TijdstipBeginActie":"19:53:13",
+             "TijdstipEindActie":"19:58:13",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8318392, 52.2782106], [4.8287275, 52.2774898]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2299",
+             "AdresBegin":"1187TT 24",
+             "AdresEind":"1187TL 16",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"367",
+             "TijdstipBeginActie":"19:58:13",
+             "TijdstipEindActie":"19:59:37",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8287275, 52.2774898],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2300",
+             "AdresBegin":"1187TL 16",
+             "AdresEind":"1187TL 16",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10498034",
+             "TijdstipBeginActie":"19:59:37",
+             "TijdstipEindActie":"20:04:37",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8287275, 52.2774898], [4.8246356, 52.2790579]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2301",
+             "AdresBegin":"1187TL 16",
+             "AdresEind":"1187SP 10",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"380",
+             "TijdstipBeginActie":"20:04:37",
+             "TijdstipEindActie":"20:05:43",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8246356, 52.2790579],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2302",
+             "AdresBegin":"1187SP 10",
+             "AdresEind":"1187SP 10",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10497888",
+             "TijdstipBeginActie":"20:05:43",
+             "TijdstipEindActie":"20:10:43",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8246356, 52.2790579], [4.8321989, 52.2850274]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2303",
+             "AdresBegin":"1187SP 10",
+             "AdresEind":"1187PH 282",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"1592",
+             "TijdstipBeginActie":"20:10:43",
+             "TijdstipEindActie":"20:14:08",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8321989, 52.2850274],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2304",
+             "AdresBegin":"1187PH 282",
+             "AdresEind":"1187PH 282",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SETAM001506875",
+             "TijdstipBeginActie":"20:14:08",
+             "TijdstipEindActie":"20:19:08",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8321989, 52.2850274], [4.8315963, 52.2931798]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2305",
+             "AdresBegin":"1187PH 282",
+             "AdresEind":"1187NR 17",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"1433",
+             "TijdstipBeginActie":"20:19:08",
+             "TijdstipEindActie":"20:22:28",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8315963, 52.2931798],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2306",
+             "AdresBegin":"1187NR 17",
+             "AdresEind":"1187NR 17",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SFONQ2746569",
+             "TijdstipBeginActie":"20:22:28",
+             "TijdstipEindActie":"20:27:28",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8315963, 52.2931798], [4.8397082, 52.2922777]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2307",
+             "AdresBegin":"1187NR 17",
+             "AdresEind":"1187AA 43",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"608",
+             "TijdstipBeginActie":"20:27:28",
+             "TijdstipEindActie":"20:28:30",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8397082, 52.2922777],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2308",
+             "AdresBegin":"1187AA 43",
+             "AdresEind":"1187AA 43",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYKHS269537001",
+             "TijdstipBeginActie":"20:28:30",
+             "TijdstipEindActie":"20:33:30",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8397082, 52.2922777], [4.8472985, 52.2916891]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2309",
+             "AdresBegin":"1187AA 43",
+             "AdresEind":"1185TG 158",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"819",
+             "TijdstipBeginActie":"20:33:30",
+             "TijdstipEindActie":"20:35:44",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8472985, 52.2916891],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2310",
+             "AdresBegin":"1185TG 158",
+             "AdresEind":"1185TG 158",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SETAM001504900",
+             "TijdstipBeginActie":"20:35:44",
+             "TijdstipEindActie":"20:40:44",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8472985, 52.2916891], [4.8469657, 52.2950884]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2311",
+             "AdresBegin":"1185TG 158",
+             "AdresEind":"1185LA 12",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"584",
+             "TijdstipBeginActie":"20:40:44",
+             "TijdstipEindActie":"20:42:59",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8469657, 52.2950884],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2312",
+             "AdresBegin":"1185LA 12",
+             "AdresEind":"1185LA 12",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SBOLD22047869",
+             "TijdstipBeginActie":"20:42:59",
+             "TijdstipEindActie":"20:47:59",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8469657, 52.2950884], [4.8498436, 52.2939223]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2313",
+             "AdresBegin":"1185LA 12",
+             "AdresEind":"1185KL 48",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"473",
+             "TijdstipBeginActie":"20:47:59",
+             "TijdstipEindActie":"20:49:55",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8498436, 52.2939223],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2314",
+             "AdresBegin":"1185KL 48",
+             "AdresEind":"1185KL 48",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STXKC10498590",
+             "TijdstipBeginActie":"20:49:55",
+             "TijdstipEindActie":"20:54:55",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8498436, 52.2939223], [4.8523976, 52.2948574]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2315",
+             "AdresBegin":"1185KL 48",
+             "AdresEind":"1185GM 77",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"403",
+             "TijdstipBeginActie":"20:54:55",
+             "TijdstipEindActie":"20:56:51",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8523976, 52.2948574],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2316",
+             "AdresBegin":"1185GM 77",
+             "AdresEind":"1185GM 77",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SYBAD206652201",
+             "TijdstipBeginActie":"20:56:51",
+             "TijdstipEindActie":"21:01:51",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8523976, 52.2948574], [4.859862, 52.2949784]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2317",
+             "AdresBegin":"1185GM 77",
+             "AdresEind":"1185DX 34",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"557",
+             "TijdstipBeginActie":"21:01:51",
+             "TijdstipEindActie":"21:03:38",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.859862, 52.2949784],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2318",
+             "AdresBegin":"1185DX 34",
+             "AdresEind":"1185DX 34",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3SPROM001507394",
+             "TijdstipBeginActie":"21:03:38",
+             "TijdstipEindActie":"21:08:38",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.859862, 52.2949784], [4.8626409, 52.2951379]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2319",
+             "AdresBegin":"1185DX 34",
+             "AdresEind":"1185BZ 83",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "RijAstand":"292",
+             "TijdstipBeginActie":"21:08:38",
+             "TijdstipEindActie":"21:09:29",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[4.8626409, 52.2951379],
+             "type":"Point"
+            },
+         "properties":
+            {
+             "Actie":"Lossen",
+             "ActieId":"2320",
+             "AdresBegin":"1185BZ 83",
+             "AdresEind":"1185BZ 83",
+             "Bezorgtour":"1",
+             "Leverdatum":"1",
+             "Leveringsnummer":"1_-3STCRH103039467",
+             "TijdstipBeginActie":"21:09:29",
+             "TijdstipEindActie":"21:14:29",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.8626409, 52.2951379], [4.5097116, 52.2194839]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Rijden",
+             "ActieId":"2321",
+             "AdresBegin":"1185BZ 83",
+             "AdresEind":"2171AE 53",
+             "Bezorgtour":"0",
+             "Leverdatum":"1",
+             "RijAstand":"33124",
+             "TijdstipBeginActie":"21:14:29",
+             "TijdstipEindActie":"21:37:58",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }, 
+        {
+         "geometry":
+            {
+             "coordinates":[[4.5097116, 52.2194839], [4.5097116, 52.2194839]],
+             "type":"LineString"
+            },
+         "properties":
+            {
+             "Actie":"Stop",
+             "ActieId":"2322",
+             "AdresBegin":"2171AE 53",
+             "AdresEind":"2171AE 53",
+             "Bezorgtour":"0",
+             "Leverdatum":"1",
+             "TijdstipBeginActie":"21:37:58",
+             "TijdstipEindActie":"21:37:58",
+             "Voertuig":"132"
+            },
+         "type":"Feature"
+        }],
+ "type":"FeatureCollection"
+}
